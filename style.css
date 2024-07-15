@@ -21,3 +21,8 @@ p{
 body{
 	background-color:#F8E2F7 ;
 }
+
+
+.imageschange img{
+	border-radius: 25px;
+}
